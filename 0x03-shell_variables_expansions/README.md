@@ -1,0 +1,1 @@
+check shell_variable_expansion
