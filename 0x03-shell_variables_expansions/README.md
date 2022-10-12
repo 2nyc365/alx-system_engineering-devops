@@ -1,1 +1,1 @@
-check shell_variable_expansion
+check shell
